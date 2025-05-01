@@ -1,0 +1,12 @@
+D:\JOT for Jobs .Net Core\N Tier Architecture\N_Tier_Architecture\N_Tier_Architecture_Models\bin\Debug\net8.0\N_Tier_Architecture_Models.deps.json
+D:\JOT for Jobs .Net Core\N Tier Architecture\N_Tier_Architecture\N_Tier_Architecture_Models\bin\Debug\net8.0\N_Tier_Architecture_Models.dll
+D:\JOT for Jobs .Net Core\N Tier Architecture\N_Tier_Architecture\N_Tier_Architecture_Models\bin\Debug\net8.0\N_Tier_Architecture_Models.pdb
+D:\JOT for Jobs .Net Core\N Tier Architecture\N_Tier_Architecture\N_Tier_Architecture_Models\obj\Debug\net8.0\N_Tier_Architecture_Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOT for Jobs .Net Core\N Tier Architecture\N_Tier_Architecture\N_Tier_Architecture_Models\obj\Debug\net8.0\N_Tier_Architecture_Models.AssemblyInfoInputs.cache
+D:\JOT for Jobs .Net Core\N Tier Architecture\N_Tier_Architecture\N_Tier_Architecture_Models\obj\Debug\net8.0\N_Tier_Architecture_Models.AssemblyInfo.cs
+D:\JOT for Jobs .Net Core\N Tier Architecture\N_Tier_Architecture\N_Tier_Architecture_Models\obj\Debug\net8.0\N_Tier_Architecture_Models.csproj.CoreCompileInputs.cache
+D:\JOT for Jobs .Net Core\N Tier Architecture\N_Tier_Architecture\N_Tier_Architecture_Models\obj\Debug\net8.0\N_Tier_Architecture_Models.dll
+D:\JOT for Jobs .Net Core\N Tier Architecture\N_Tier_Architecture\N_Tier_Architecture_Models\obj\Debug\net8.0\refint\N_Tier_Architecture_Models.dll
+D:\JOT for Jobs .Net Core\N Tier Architecture\N_Tier_Architecture\N_Tier_Architecture_Models\obj\Debug\net8.0\N_Tier_Architecture_Models.pdb
+D:\JOT for Jobs .Net Core\N Tier Architecture\N_Tier_Architecture\N_Tier_Architecture_Models\obj\Debug\net8.0\ref\N_Tier_Architecture_Models.dll
+D:\JOT for Jobs .Net Core\N Tier Architecture\N_Tier_Architecture\N_Tier_Architecture_Models\obj\Debug\net8.0\N_Tier_Architecture_Models.csproj.AssemblyReference.cache

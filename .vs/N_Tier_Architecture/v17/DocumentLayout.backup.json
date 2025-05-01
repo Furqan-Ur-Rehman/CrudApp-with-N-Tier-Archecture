@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|solutionrelative:n_tier_architecture\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture\\views\\shared\\_notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|solutionrelative:n_tier_architecture\\views\\shared\\_notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|solutionrelative:n_tier_architecture\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|solutionrelative:n_tier_architecture\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920C8015-E108-4234-B307-846745D5654C}|N_Tier_Architecture_Models\\N_Tier_Architecture_Models.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture_models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920C8015-E108-4234-B307-846745D5654C}|N_Tier_Architecture_Models\\N_Tier_Architecture_Models.csproj|solutionrelative:n_tier_architecture_models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|solutionrelative:n_tier_architecture\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920C8015-E108-4234-B307-846745D5654C}|N_Tier_Architecture_Models\\N_Tier_Architecture_Models.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture_models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920C8015-E108-4234-B307-846745D5654C}|N_Tier_Architecture_Models\\N_Tier_Architecture_Models.csproj|solutionrelative:n_tier_architecture_models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C0BDC1-7DA2-458C-A30C-669DF524EC6B}|N_Tier_Architecture_DataAccess\\N_Tier_Architecture_DataAccess.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture_dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C0BDC1-7DA2-458C-A30C-669DF524EC6B}|N_Tier_Architecture_DataAccess\\N_Tier_Architecture_DataAccess.csproj|solutionrelative:n_tier_architecture_dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|solutionrelative:n_tier_architecture\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|solutionrelative:n_tier_architecture\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|solutionrelative:n_tier_architecture\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|solutionrelative:n_tier_architecture\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920C8015-E108-4234-B307-846745D5654C}|N_Tier_Architecture_Models\\N_Tier_Architecture_Models.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture_models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920C8015-E108-4234-B307-846745D5654C}|N_Tier_Architecture_Models\\N_Tier_Architecture_Models.csproj|solutionrelative:n_tier_architecture_models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|solutionrelative:n_tier_architecture\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|solutionrelative:n_tier_architecture\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C0BDC1-7DA2-458C-A30C-669DF524EC6B}|N_Tier_Architecture_DataAccess\\N_Tier_Architecture_DataAccess.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture_dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C0BDC1-7DA2-458C-A30C-669DF524EC6B}|N_Tier_Architecture_DataAccess\\N_Tier_Architecture_DataAccess.csproj|solutionrelative:n_tier_architecture_dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C0BDC1-7DA2-458C-A30C-669DF524EC6B}|N_Tier_Architecture_DataAccess\\N_Tier_Architecture_DataAccess.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture_dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C0BDC1-7DA2-458C-A30C-669DF524EC6B}|N_Tier_Architecture_DataAccess\\N_Tier_Architecture_DataAccess.csproj|solutionrelative:n_tier_architecture_dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|solutionrelative:n_tier_architecture\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|solutionrelative:n_tier_architecture\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|d:\\jot for jobs .net core\\n tier architecture\\n_tier_architecture\\n_tier_architecture\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8620F3D0-A148-45B8-907D-6A8C6858E97F}|N_Tier_Architecture\\N_Tier_Architecture.csproj|solutionrelative:n_tier_architecture\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture_DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "N_Tier_Architecture_DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture_DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "N_Tier_Architecture_DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:02:15.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture_Models\\Category.cs",
+              "RelativeDocumentMoniker": "N_Tier_Architecture_Models\\Category.cs",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture_Models\\Category.cs",
+              "RelativeToolTip": "N_Tier_Architecture_Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:15:54.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "N_Tier_Architecture\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "N_Tier_Architecture\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowC8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:19:48.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "N_Tier_Architecture\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "N_Tier_Architecture\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:04:10.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Notifications.cshtml",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Views\\Shared\\_Notifications.cshtml",
+              "RelativeDocumentMoniker": "N_Tier_Architecture\\Views\\Shared\\_Notifications.cshtml",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Views\\Shared\\_Notifications.cshtml",
+              "RelativeToolTip": "N_Tier_Architecture\\Views\\Shared\\_Notifications.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T13:29:20.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "N_Tier_Architecture\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "N_Tier_Architecture\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T15:04:48.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture_Models\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "N_Tier_Architecture_Models\\ViewModels\\ProductVM.cs",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture_Models\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "N_Tier_Architecture_Models\\ViewModels\\ProductVM.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:52:45.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T19:12:49.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T11:53:02.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T19:50:13.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "N_Tier_Architecture\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "N_Tier_Architecture\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T14:35:53.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T11:28:38.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "N_Tier_Architecture\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T07:29:37.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture_Models\\Product.cs",
+              "RelativeDocumentMoniker": "N_Tier_Architecture_Models\\Product.cs",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture_Models\\Product.cs",
+              "RelativeToolTip": "N_Tier_Architecture_Models\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:06:52.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "N_Tier_Architecture\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "N_Tier_Architecture\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T14:41:00.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture_DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "N_Tier_Architecture_DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture_DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "N_Tier_Architecture_DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:41:20.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture_DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "N_Tier_Architecture_DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture_DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "N_Tier_Architecture_DataAccess\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:35:39.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "N_Tier_Architecture\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "N_Tier_Architecture\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T01:49:30.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "N_Tier_Architecture\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "N_Tier_Architecture\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T01:41:55.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "N_Tier_Architecture\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\JOT for Jobs .Net Core\\N Tier Architecture\\N_Tier_Architecture\\N_Tier_Architecture\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "N_Tier_Architecture\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T12:55:09.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
